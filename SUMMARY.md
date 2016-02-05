@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [LICENSE](LICENSE.md)
 * [Part I](part1/readmemd.md)
    * [Writing is nice](part1/writingmd.md)
    * [GitBook is nice](part1/gitbookmd.md)
