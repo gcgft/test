@@ -6,5 +6,9 @@
         "md-include",
         "language-picker"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "sitemap" : {
+            "hostname" : "testing"
+        }
+    }
 }
