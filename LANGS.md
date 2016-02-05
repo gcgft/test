@@ -1,3 +1,3 @@
-* [English](en)
-* [Español](es)
-* [Images](img)
+* [English](en/)
+* [Español](es/)
+* [Images](img/)
