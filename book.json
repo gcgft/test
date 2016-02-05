@@ -8,6 +8,9 @@
     "pluginsConfig": {
         "sitemap" : {
             "hostname" : "testing"
+        },
+        "rss" : {
+            "title": "My super feed"
         }
     }
 }
