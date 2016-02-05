@@ -2,7 +2,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis, tellus quis dictum maximus, nibh ante porttitor ipsum, vitae porttitor nisi risus vitae mauris. Donec pulvinar dui velit, id bibendum mi tempor vitae. Sed suscipit risus augue, vitae fermentum lacus egestas viverra. Nulla dictum ligula ac velit finibus sollicitudin. Suspendisse luctus quam eget rhoncus efficitur. Proin eleifend velit id suscipit sagittis. Fusce tristique mauris a iaculis malesuada. Vestibulum molestie neque sit amet est tempus, id porttitor urna congue. Integer at sem nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla mi nisi, tristique nec viverra eu, facilisis quis metus. Mauris ornare sit amet justo et placerat. Praesent finibus consequat laoreet. Nulla facilisi.
 
-THIS IS THE [LICENSE](LICENSE.MD) OF THE BOOK.
+THIS IS THE [LICENSE](LICENSE) OF THE BOOK.
 
 Curabitur magna arcu, interdum vel ullamcorper ac, tristique ac dolor. Etiam sit amet nulla laoreet, sodales libero laoreet, scelerisque nulla. Curabitur condimentum dolor ipsum, et euismod neque vestibulum at. Mauris id sapien augue. Nulla imperdiet, diam in euismod vestibulum, ipsum mauris vehicula metus, id sollicitudin dolor eros vel arcu. In libero dui, sollicitudin in condimentum at, luctus eu eros. Pellentesque faucibus massa condimentum, pharetra lectus sit amet, sagittis tortor. Nunc vestibulum leo nec ligula accumsan, sed ultrices ligula dapibus. Donec convallis pulvinar consequat. Maecenas placerat, ligula id dignissim sagittis, diam augue sollicitudin turpis, id tincidunt mauris nunc nec purus. Ut nisl odio, pulvinar at auctor id, convallis eget leo. Curabitur et sapien semper elit dignissim viverra.
 
