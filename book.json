@@ -1,7 +1,7 @@
 {
     "plugins": [
         "todo",
-        "-sitemap",
+        "sitemap",
         "-rss",
         "language-picker"
     ],
