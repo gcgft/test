@@ -2,7 +2,7 @@
     "plugins": [
         "todo",
         "-sitemap",
-        "rss",
+        "-rss",
         "language-picker"
     ],
     "pluginsConfig": {
@@ -23,7 +23,7 @@
             "description": "My description"
         },
         "language-picker": {
-            "-grid-columns": "3"
+            "grid-columns": 3
         }
     }
 }
