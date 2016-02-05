@@ -7,7 +7,7 @@
     ],
     "pluginsConfig": {
         "sitemap" : {
-            "hostname" : "testing"
+            "hostname" : "http://example.com"
         },
         "rss" : {
             "title": "My super feed",
