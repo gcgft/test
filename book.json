@@ -9,10 +9,18 @@
         "-sitemap": {
             "hostname": "http://example.com"
         },
-        "rss": {
-            "title": "My super feed",
-            "site_url": "http://www.google.com",
-            "feed_url": "http://www.google.es"
+        "-rss": {
+            "title": "My title",
+            "description": "",
+            "generator": "",
+            "site_url": "",
+            "feed_url": "",
+            "image_url": "",
+            "managingEditor": "",
+            "webMaster": "",
+            "categories": "",
+            "copyright": "",
+            "language": ""
         }
     }
 }
