@@ -23,7 +23,7 @@
             "description": "My description"
         },
         "language-picker": {
-            "grid-columns": "3"
+            "-grid-columns": "3"
         }
     }
 }
