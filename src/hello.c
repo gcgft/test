@@ -2,9 +2,7 @@
 #include <stdio.h>
 
 
-int main(void){
+void hello(const char * name){
 
-    printf("Hello, World!\n");
-
-    return(0);
+    printf("Hello, %s!\n", name);
 }
