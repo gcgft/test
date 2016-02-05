@@ -10,17 +10,17 @@
             "hostname": "http://www.book-hostname.com/"
         },
         "-rss": {
-            "copyright": "My copyright",
-            "image_url": "https://0.gravatar.com/avatar/ca06c58adf626098d1a9a96d1032e229?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&r=x&s=140",
-            "feed_url": "http://www.feed-url.com/",
-            "managingEditor": "My managing editor",
-            "generator": "My generator",
-            "webMaster": "My web master",
-            "site_url": "http://www.site-url.com/",
             "title": "My title",
-            "language": "My language",
+            "description": "My description",
+            "generator": "My generator",
+            "site_url": "http://www.site-url.com/",
+            "feed_url": "http://www.feed-url.com/",
+            "image_url": "https://0.gravatar.com/avatar/ca06c58adf626098d1a9a96d1032e229?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&r=x&s=140",
+            "managingEditor": "My managing editor",
+            "webMaster": "My web master",
             "categories": "My categories",
-            "description": "My description"
+            "copyright": "My copyright",
+            "language": "My language"
         },
         "-language-picker": {
             "grid-columns": "3"
