@@ -1,5 +1,8 @@
 # Summary
 
+* [Introduction](README.md)
+
+<!--
 * [Summary](SUMMARY.md)
 * [Introduction](README.md)
 * [Part I](part1/readme.md)
@@ -8,4 +11,4 @@
 * [Part II](part2/readme.md)
    * [We love feedback](part2/feedbackplease.md)
    * [Better tools for authors](part2/bettertools.md)
-
+-->
