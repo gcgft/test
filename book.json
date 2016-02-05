@@ -1,15 +1,15 @@
 {
     "plugins": [
         "todo",
-        "-sitemap",
-        "-rss",
+        "sitemap",
+        "rss",
         "language-picker"
     ],
     "pluginsConfig": {
-        "-sitemap": {
+        "sitemap": {
             "hostname": "http://www.book-hostname.com/"
         },
-        "-rss": {
+        "rss": {
             "copyright": "My copyright",
             "image_url": "https://assets-cdn.github.com/images/gravatars/gravatar-user-420.png",
             "feed_url": "http://www.feed-url.com/",
