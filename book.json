@@ -1,9 +1,9 @@
 {
     "plugins": [
-        "todo",
+        "-todo",
         "-sitemap",
-        "rss",
-        "language-picker"
+        "-rss",
+        "-language-picker"
     ],
     "pluginsConfig": {
         "-sitemap": {
