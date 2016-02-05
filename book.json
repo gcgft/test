@@ -11,7 +11,8 @@
         },
         "rss" : {
             "title": "My super feed",
-            "site_url" : "http://www.google.com"
+            "site_url" : "http://www.google.com",
+            "feed_url" : "http://www.google.es"
         }
     }
 }
