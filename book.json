@@ -2,7 +2,8 @@
     "plugins": [
         "todo",
         "sitemap",
-        "rss"
+        "rss",
+        "md-include"
     ],
     "pluginsConfig": {}
 }
