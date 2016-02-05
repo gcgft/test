@@ -6,7 +6,7 @@ THIS IS THE [LICENSE](LICENSE.md) OF THE BOOK.
 
 Curabitur magna arcu, interdum vel ullamcorper ac, tristique ac dolor. Etiam sit amet nulla laoreet, sodales libero laoreet, scelerisque nulla. Curabitur condimentum dolor ipsum, et euismod neque vestibulum at. Mauris id sapien augue. Nulla imperdiet, diam in euismod vestibulum, ipsum mauris vehicula metus, id sollicitudin dolor eros vel arcu. In libero dui, sollicitudin in condimentum at, luctus eu eros. Pellentesque faucibus massa condimentum, pharetra lectus sit amet, sagittis tortor. Nunc vestibulum leo nec ligula accumsan, sed ultrices ligula dapibus. Donec convallis pulvinar consequat. Maecenas placerat, ligula id dignissim sagittis, diam augue sollicitudin turpis, id tincidunt mauris nunc nec purus. Ut nisl odio, pulvinar at auctor id, convallis eget leo. Curabitur et sapien semper elit dignissim viverra.
 
-![Run configurations](run-configurations.gif)
+![Run configurations](img/run-configurations.gif)
 
 Maecenas auctor erat nec velit pretium ullamcorper. Vivamus vestibulum nibh sed velit aliquet eleifend. Pellentesque bibendum sem eu est scelerisque aliquet. Duis eu mattis nibh. Nulla rhoncus, tellus non accumsan viverra, neque augue interdum odio, et ornare dui tellus a orci. Maecenas ornare dapibus lacus at fringilla. Nam interdum mi mauris, at cursus enim auctor quis.
 
