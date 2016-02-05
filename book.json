@@ -14,7 +14,7 @@
             "grid-columns": 3
         },
         "versions": {
-            "type": "branches",
+            "type": "tags",
             "includeFilepath": false
         }
     }
