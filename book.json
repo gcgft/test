@@ -12,6 +12,10 @@
         },
         "language-picker": {
             "grid-columns": 3
+        },
+        "versions": {
+            "type": "languages",
+            "includeFilepath": false
         }
     }
 }
