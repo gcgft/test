@@ -4,8 +4,7 @@
         "sitemap",
         "-rss",
         "language-picker",
-        "versions",
-        "28msec"
+        "versions"
     ],
     "pluginsConfig": {
         "sitemap": {
