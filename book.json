@@ -3,7 +3,6 @@
         "todo",
         "sitemap",
         "rss",
-        "md-include",
         "language-picker"
     ],
     "pluginsConfig": {
