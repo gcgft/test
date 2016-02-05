@@ -1,4 +1,3 @@
 * [English](en)
 * [Español](es)
-
-<!-- * [Images](img) -->
+* [Images](img)
