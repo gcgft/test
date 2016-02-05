@@ -7,5 +7,5 @@
    * [GitBook is nice](part1/gitbookmd.md)
 * [Part II](part2/readmemd.md)
    * [We love feedback](part2/feedbackplease_md.md)
-   * [Better tools for authors](part2/better_tools.md)
+   * [Better tools for authors](part2/bettertools_md.md)
 
