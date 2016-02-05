@@ -10,7 +10,8 @@
             "hostname" : "testing"
         },
         "rss" : {
-            "title": "My super feed"
+            "title": "My super feed",
+            "site_url" : "http://www.google.com"
         }
     }
 }
