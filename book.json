@@ -1,7 +1,7 @@
 {
     "plugins": [
         "todo",
-        "sitemap",
+        "-sitemap",
         "rss",
         "language-picker"
     ],
@@ -19,7 +19,7 @@
             "site_url": "http://www.site-url.com/",
             "title": "My title",
             "language": "My language",
-            "categories": "My categories",
+            "categories": ["one", "two", "three"],
             "description": "My description"
         },
         "language-picker": {
