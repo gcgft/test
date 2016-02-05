@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "todo"
+        "todo",
+        "sitemap"
     ],
     "pluginsConfig": {}
 }
