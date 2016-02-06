@@ -8,7 +8,7 @@ CFLAGS   = -ansi -std=c90 -Wall -Wextra -pedantic
 all: $(BIN)
 
 test: $(BIN)
-	$(BIN)
+	./$(BIN)
 
 clean:
 	rm -f $(OBJ) $(BIN)
