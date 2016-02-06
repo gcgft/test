@@ -1,10 +1,7 @@
 
-# set up for nmake:
-install:
-  - '"C:\Program Files\Microsoft SDKs\Windows\v7.1\Bin\SetEnv.cmd" /x64'
 
 build_script:
-  - 'nmake'
+  - nmake all Makefile.nmake
 
 test_script:
-  - 'nmake test'
+  - nmake test Makefile.nmake
