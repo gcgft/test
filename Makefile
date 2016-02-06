@@ -16,8 +16,8 @@ clean:
 $(BIN): $(OBJ)
 	$(CC) $(LINKOBJ) -o $(BIN)
 
-main.o: main.c
-	$(CC) -c main.c -o main.o $(CFLAGS)
+main.o: src/main.c
+	$(CC) -c src/main.c -o main.o $(CFLAGS)
 
-hello.o: hello.c
-	$(CC) -c hello.c -o hello.o $(CFLAGS)
+hello.o: src/hello.c
+	$(CC) -c src/hello.c -o hello.o $(CFLAGS)
