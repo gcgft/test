@@ -3,9 +3,12 @@ LINKOBJ  = main.o hello.o
 BIN      = hello
 CFLAGS   = -ansi -std=c90 -Wall -Wextra -pedantic
 
-.PHONY: all clean
+.PHONY: all clean test
 
 all: $(BIN)
+
+test: $(BIN)
+	$(BIN)
 
 clean:
 	rm -f $(OBJ) $(BIN)
