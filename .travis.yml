@@ -1,5 +1,11 @@
 language: c
+sudo: false # only for faster builds
 compiler: gcc
 script:
  - make
  - make test
+
+before_install:
+  - pip install --user codecov
+after_success:
+  - codecov
