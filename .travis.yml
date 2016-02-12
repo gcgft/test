@@ -4,9 +4,5 @@ compiler: gcc
 script:
  - make
  - make test
- - gcov src/hello.c
-
-before_install:
-  - pip install --user codecov
 after_success:
-  - codecov
+  - bash <(curl -s https://codecov.io/bash)
