@@ -6,3 +6,28 @@ script:
  - make test
 after_success:
   - bash <(curl -s https://codecov.io/bash)
+
+
+
+#before_install
+#install
+#before_script
+#script
+#after_success / after_failure
+#OPTIONAL before_deploy
+#OPTIONAL deploy
+#OPTIONAL after_deploy
+#after_script
+
+# whitelist
+#branches:
+#  only:
+#    - master
+#    - /^deploy-.*$/
+
+# blacklist
+branches:
+  except:
+    - gh-pages
+
+# Skip build: commit message contains [ci skip]
