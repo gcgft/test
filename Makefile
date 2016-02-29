@@ -1,7 +1,7 @@
 OBJ      = main.o hello.o
 LINKOBJ  = main.o hello.o
 BIN      = hello
-CFLAGS   = -ansi -std=c90 -Wall -Wextra -pedantic
+CFLAGS   = -ansi -Wall -Wextra -pedantic
 
 .PHONY: all clean test
 
