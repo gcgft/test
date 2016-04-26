@@ -6,3 +6,5 @@
 [![codecov.io](https://codecov.io/github/gcgft/test/coverage.svg?branch=master)](https://codecov.io/github/gcgft/test?branch=master)
 
 This is the README for the GitHub repository.
+
+[![Stories in Ready](https://badge.waffle.io/gcgft/test.png?label=ready&title=Ready)](http://waffle.io/gcgft/test)
